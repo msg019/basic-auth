@@ -19,7 +19,7 @@ Register an user, go to login and then you can enter in content page.
 ## Instalations
 
 ### clone repository
-git clone https://github.com/msg019/basic-auth   
+git clone https://github.com/msg019/basic-auth.git   
 cd basic-auth 
 
 ### Set up Docker
